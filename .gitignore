@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database (user data)
+*.db
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
